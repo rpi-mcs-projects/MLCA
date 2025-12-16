@@ -4,6 +4,8 @@
 
 This repository contains code and datasets for training machine learning models to optimize RF pulse calibration in superconducting quantum computers under crosstalk constraints.
 
+**Note: The qolab access requires private token, which is not provided with this repo. However, the dataset was provided under folder `data/`**
+
 ## Quick Start
 
 ### Running a Single Backtest
